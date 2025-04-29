@@ -7,17 +7,15 @@
     - LINE的channel secret：`LINE_CHANNEL_SECRET`
     - LINE的channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
     - Huggingface的Access Token：`HF_TOKEN`
-    - OpenAI的API key：`OPENAI_API_KEY`
     - Google AI Studio的API key：`GOOGLE_API_KEY`
 
 ## 課前準備
 1. Google帳號，申請Google AI Studio帳號的API金鑰
 2. Huggingface的帳號
 3. LINE的帳號
-4. OpenAI的帳號
-5. 課程中遇到問題，在Slido上提問
-6. 下課後問題，在本課程的Github上Issue提問(需註冊Github帳號)
-7. 能執行Powershell的Windows電腦或者Terminal的Mac電腦
+4. 課程中遇到問題，在Slido上提問
+5. 下課後問題，在本課程的Github上Issue提問(需註冊Github帳號)
+6. 能執行Powershell的Windows電腦或者Terminal的Mac電腦
 
 ## 課程簡介
 在Huggingface Space上建立LINE Bot，具備下列功能
@@ -32,7 +30,7 @@
 - 帳號申請及金鑰
 - Huggingface Space的建立及使用
 - 程式碼撰寫及說明
-- OpenAI/Google Gemini API說明及整合
+- Google Gemini API說明及整合
 
 ## 上課日期
 均為下午15:10~18:00
