@@ -1,6 +1,12 @@
 # 東吳大學資科系2025年上半年LINE Bot進階課程
 
 ## 更新通知
+2025/05/13
+* 使用Windows同學請先安裝Powershell 7.5.1，方便看更多指令
+* 使用macOS同學請先更新到最新版的macOS，目前最新版為15.5
+* 請同學在下週(2025/05/20)之前安裝好Docker Desktop
+
+## 課程注意事項
 
 * 程式問題提問，請在[Issues](https://github.com/joshhu/sculinebot2025/issues)上提問，並且提供程式碼，錯誤訊息，以及問題描述，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式。
 * 密鑰名稱為求符合PEP命名標準，統一使用下列格式：
