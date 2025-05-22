@@ -1,6 +1,9 @@
 # 東吳大學資科系2025年上半年LINE Bot進階課程
 
 ## 更新通知
+2025/05/22
+* 在macOS之下，如果Finder或vscode側邊欄沒有顯示家目錄，參考[這邊](https://github.com/joshhu/sculinebot2025/issues/1)
+
 2025/05/13
 * 使用Windows同學請先安裝Powershell 7.5.1，方便看更多指令
 * 使用macOS同學請先更新到最新版的macOS，目前最新版為15.5
